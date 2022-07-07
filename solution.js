@@ -10,5 +10,5 @@ console.log(thirdElement);
 
 //#3
 
-const fouthElement = myArray[3];
-console.log(fouthElement);
+myArray[3] = "fourth element";
+console.log(myArray);
